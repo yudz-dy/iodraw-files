@@ -33,7 +33,7 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-12" value="返回错误，选课失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7" target="dCcTruc8CvBUgPFq5rBE-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="510" as="sourcePoint" />
             <mxPoint x="374" y="493" as="targetPoint" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-17" value="检验是否已选" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-17" target="dCcTruc8CvBUgPFq5rBE-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
