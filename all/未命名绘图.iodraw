@@ -300,16 +300,16 @@
           <mxGeometry x="365" y="4250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-100" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="4690" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="4700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-102" value="用户点击“课程统计”按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="4900" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="4910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-103" value="弹出统计窗口展示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="5010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-105" value="用户选择查询教师的姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="4800" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="4800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
