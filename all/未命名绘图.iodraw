@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="dCcTruc8CvBUgPFq5rBE-3" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;用户登录&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-4" value="学生输入选课信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
@@ -15,20 +15,6 @@
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-7" value="检验课程容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="460" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="580" as="sourcePoint" />
-            <mxPoint x="90" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-13" value="已满" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dCcTruc8CvBUgPFq5rBE-11">
-          <mxGeometry x="-0.1733" y="3" relative="1" as="geometry">
-            <mxPoint x="12" y="-13" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-12" value="返回错误，选课失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="500" width="120" height="60" as="geometry" />
@@ -110,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-30" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-30" target="dCcTruc8CvBUgPFq5rBE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -122,6 +108,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="330" as="sourcePoint" />
             <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="630" as="sourcePoint" />
+            <mxPoint x="240" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
