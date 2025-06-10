@@ -181,13 +181,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-57" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="2410" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-58" target="dCcTruc8CvBUgPFq5rBE-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-58" value="用户打开修改课程窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-59" target="dCcTruc8CvBUgPFq5rBE-61">
           <mxGeometry relative="1" as="geometry" />
