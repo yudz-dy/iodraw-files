@@ -137,8 +137,11 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-41" value="提示是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1490" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1450" width="120" height="60" as="geometry" />
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-42" value="取消删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
