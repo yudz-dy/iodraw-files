@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-22" value="插入选课记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-22" target="dCcTruc8CvBUgPFq5rBE-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,15 +72,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-24" value="更新选课人数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-25" value="返回成功提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-24" target="dCcTruc8CvBUgPFq5rBE-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="780" as="sourcePoint" />
-            <mxPoint x="370" y="730" as="targetPoint" />
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-5" target="dCcTruc8CvBUgPFq5rBE-7">
