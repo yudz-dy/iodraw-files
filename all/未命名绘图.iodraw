@@ -123,19 +123,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-36" value="&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;用户进入选课界面&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-37" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-37" target="dCcTruc8CvBUgPFq5rBE-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="1460" as="sourcePoint" />
-            <mxPoint x="170" y="1410" as="targetPoint" />
+            <mxPoint x="115" y="1440" as="sourcePoint" />
+            <mxPoint x="165" y="1390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-39" target="dCcTruc8CvBUgPFq5rBE-41">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-39" value="用户选择选课记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="1350" width="120" height="60" as="geometry" />
@@ -332,7 +329,7 @@
           <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-115" value="点击删除按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="1410" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
