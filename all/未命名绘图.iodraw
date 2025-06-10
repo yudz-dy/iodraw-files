@@ -250,8 +250,11 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-80" value="点击”搜索“按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-81" value="系统拼接查询条件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="3900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="3810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
