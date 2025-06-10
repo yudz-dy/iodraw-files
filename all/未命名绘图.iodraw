@@ -211,6 +211,9 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-63" value="检验课程信息是否有误" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="2990" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-64" target="dCcTruc8CvBUgPFq5rBE-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-64" value="提示修改失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="3090" width="100" height="60" as="geometry" />
         </mxCell>
@@ -219,6 +222,9 @@
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-65" value="用户输入修改信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="2893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-66" target="dCcTruc8CvBUgPFq5rBE-137">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-66" value="提示修改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="3090" width="120" height="60" as="geometry" />
