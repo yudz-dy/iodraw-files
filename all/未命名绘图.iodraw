@@ -201,8 +201,8 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-65" value="用户输入修改信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="2900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="3060" width="120" height="60" as="geometry" />
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-66" value="提示修改成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="3080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
