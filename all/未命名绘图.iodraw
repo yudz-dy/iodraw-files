@@ -135,7 +135,7 @@
           <mxGeometry x="140" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-41" value="提示是否确认删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1490" width="110" height="80" as="geometry" />
+          <mxGeometry x="150" y="1490" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-42" value="取消删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1600" width="120" height="60" as="geometry" />
@@ -146,7 +146,7 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-45" value="更新课程已选人数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-46" value="提示成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
