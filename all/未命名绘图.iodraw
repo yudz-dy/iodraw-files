@@ -299,8 +299,8 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-86" value="展示筛选后的选课信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="4250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="3670" width="120" height="60" as="geometry" />
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="5000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
