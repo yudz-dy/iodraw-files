@@ -192,8 +192,8 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-61" value="用户提交修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="2840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="2760" width="120" height="60" as="geometry" />
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-63" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="2750" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
