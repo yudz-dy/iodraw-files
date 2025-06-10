@@ -181,13 +181,13 @@
           <mxGeometry x="50" y="2390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-58" value="用户打开修改课程窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="2460" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="2370" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-60" value="加载原课程信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="2520" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
