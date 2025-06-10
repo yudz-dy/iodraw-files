@@ -190,13 +190,16 @@
           <mxGeometry x="60" y="2630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-61" value="用户提交修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="2830" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="2820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-63" value="检验课程是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="2923" width="80" height="80" as="geometry" />
+          <mxGeometry x="100" y="2940" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-64" value="提示存在，修改失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="3080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="2860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
