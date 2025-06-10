@@ -16,7 +16,7 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-7" value="检验课程容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="390" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7" target="dCcTruc8CvBUgPFq5rBE-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="510" as="sourcePoint" />
             <mxPoint x="130" y="520" as="targetPoint" />
@@ -24,6 +24,9 @@
               <mxPoint x="130" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
