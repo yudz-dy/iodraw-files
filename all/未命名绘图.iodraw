@@ -19,6 +19,9 @@
         <mxCell id="dCcTruc8CvBUgPFq5rBE-7" value="检验课程容量" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="460" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-12" target="dCcTruc8CvBUgPFq5rBE-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-12" value="返回错误，选课失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -354,7 +357,7 @@
           <mxGeometry x="210" y="-10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-131" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="860" width="120" height="80" as="geometry" />
+          <mxGeometry x="175" y="860" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
