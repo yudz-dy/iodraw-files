@@ -59,12 +59,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dCcTruc8CvBUgPFq5rBE-18">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-20" value="已选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dCcTruc8CvBUgPFq5rBE-18">
           <mxGeometry x="-0.14" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dCcTruc8CvBUgPFq5rBE-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dCcTruc8CvBUgPFq5rBE-19" value="返回错误，选课失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
