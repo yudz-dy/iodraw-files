@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-12" value="返回错误，选课失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCcTruc8CvBUgPFq5rBE-7" target="dCcTruc8CvBUgPFq5rBE-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-20" value="已选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dCcTruc8CvBUgPFq5rBE-18">
           <mxGeometry x="-0.14" relative="1" as="geometry">
-            <mxPoint x="7" y="49" as="offset" />
+            <mxPoint x="4" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dCcTruc8CvBUgPFq5rBE-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dCcTruc8CvBUgPFq5rBE-131">
